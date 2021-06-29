@@ -1,5 +1,5 @@
-# FlightOneWiki
-The inofficial Wiki, by the community</br>
+# FlightOne / FalcoX Wiki
+Неофициальное ВИКИ</br>
 
 # Contribute
 We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this guide to help</a> <-
